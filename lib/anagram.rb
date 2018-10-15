@@ -22,4 +22,3 @@ class Anagram
     return array_of_matches
   end
 end
-
